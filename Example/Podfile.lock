@@ -1,0 +1,23 @@
+PODS:
+  - A_Category (0.1.0):
+    - CTMediator
+  - CTMediator (46)
+
+DEPENDENCIES:
+  - A_Category (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - CTMediator
+
+EXTERNAL SOURCES:
+  A_Category:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  A_Category: 9ff73af6298ba27b98533f51323b327577dd8b83
+  CTMediator: f1cf58d509fb3192086c367711f039efd769b907
+
+PODFILE CHECKSUM: 00ed26a1349e590f20ad93c0dd999ad0a26ed405
+
+COCOAPODS: 1.10.1
